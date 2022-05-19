@@ -1,13 +1,13 @@
 # TRNG_ImageSampling
  True Random Number Generator based on XOR operation between image pairs
 
-A generator based on article:
-A parallelizable chaos-based true random number generator
-based on mobile device cameras for the Android platform [[1]](#1)
+A generator based on article: </br>
+<em><b> A parallelizable chaos-based true random number generator
+ based on mobile device cameras for the Android platform [[1]](#1) </b></em>
 
 ## References
 <a id="1">[1]</a> 
-Wei-Zhu Yeoh * Je Sen Teh * Huey Rong Chern (2018) </br>
+Wei-Zhu Yeoh • Je Sen Teh • Huey Rong Chern (2018) </br>
 Received: 7 May 2018 / Revised: 9 October 2018 / Accepted: 30 November 2018 / </br>
 Published online: 11 December 2018 </br>
 © Springer Science+Business Media, LLC, part of Springer Nature 2018 </br>
